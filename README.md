@@ -1,4 +1,4 @@
-# Rock-Paper-Scissor-Game
+ # Rock-Paper-Scissor-Game
 1.Rock, Paper and Scissor game is a simple fun game in which both player have to make a Rock, Paper and Scissor. 
 
 2.It has only two possible outcomes a draw or a win for one player and a loss for other player.
@@ -11,7 +11,7 @@
 
 6.If game is draw it display "Game was draw! Play Again".
 
-7.At the last, "YOU" and "COMPUTER" also display.
+7.At the last, "YOU" and "COMPUTER" also display score.
 
 8.This project is developed by using HTML(Hypertext Markup Language), CSS(Cascading Stylesheet) and JavaScript.
 
